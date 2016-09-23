@@ -6,3 +6,4 @@ if [ -z "$AUTOMAKE" ]; then
 fi;
 AUTOMAKE="$AUTOMAKE --foreign" autoreconf --force --install -I config
 
+touch generated.txt

@@ -43,3 +43,4 @@ AC_CONFIG_FILES([Makefile
                  src/Makefile
                  tools/Makefile])
 AC_OUTPUT
+AC_INPUT
